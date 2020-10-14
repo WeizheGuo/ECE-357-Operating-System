@@ -1,0 +1,10 @@
+Question: 
+Suppose the transistor is properly biased, and the voltage at point A and A are measured respectively. What is the input impedance of the device?
+
+Value:
+V_A = 0.2V
+V_A = 0.1V
+R_A = 1000 ohm
+
+Answer:
+ANS = V_A/((V_A - V_A)/R_A) = 1000 ohm (tolerance should be 1%)
